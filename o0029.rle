@@ -1,0 +1,18 @@
+#C1. By Matthias Merzenich, Aug 2013
+#C     (based on a reflector reaction by Noam Elkies)
+x = 85, y = 104, rule = B3/S23
+39bo2$39bo2$39bo2$39bo2$39bo12$53b2o$53bo$55bo$51b5o$51bo$54b4o$54bo2b
+o2$43bo$42bobo4bo$37bo5bo5b2o6b2o$37b3o9bo8b2o$40bo$39b2o2$42bo6bo8b2o
+$41bobo5b2o6b2o$10b2o25b2o2b2o6bo$9bobo25b2o$9bo$7b2ob4o40bo2bo$6bobob
+o2bo25b2o13b4o$6bobo29bobo10bo$4b2o2bo31bo10b5o$3bo4b2o37bo7bo$3b5o37b
+obo5bo$b2o4bo12bo25b2o5b2o$o2b2o8b3o3bobo$2obo9bobo4bo11bo$3bo9b3o16b
+2o$3b2o26bobo$53bo$54b2o$7b2o6b3o3b2o30b2o$7b2o6bobo3b2o$15b3o$24b3o$
+26bo38b2o5b2o$10b2o13bo35bo3b2o5bo$11bo50bo7bobo$8b3o5bo43b3o7b2o$8bo
+6bobo48b2o$16b2o48bobo7bo$12b2o7b3o43bo6b3o$11bobo7bo51bo$11bo5b2o3bo
+35bo14b2o$10b2o5b2o38bo$57b3o$67b3o$62b2o3bobo6b2o$29b2o31b2o3b3o6b2o$
+28b2o$30bo$50bobo27b2o$50b2o17b3o9bo$51bo12bo4bobo9bob2o$63bobo3b3o8b
+2o2bo$29b2o5b2o26bo12bo4b2o$30bo5bobo38b5o$28bo7bo38b2o4bo$28b5o10bo
+32bo2b2o$32bo10bobo30bobo$26b4o13b2o26bo2bobobo$26bo2bo41b4ob2o$75bo$
+45b2o26bobo$34bo6b2o2b2o26b2o$25b2o6b2o5bobo$24b2o8bo6bo2$43b2o$43bo$
+24b2o8bo9b3o$25b2o6b2o5bo5bo$34bo4bobo$40bo2$26bo2bo$26b4o$32bo$28b5o$
+28bo$30bo$29b2o!

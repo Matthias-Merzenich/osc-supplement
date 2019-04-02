@@ -1,0 +1,14 @@
+#C1. By Noam Elkies
+#C2. By Mike Playle, 2 Aug 2014 (using Bellman)
+#C3. Reduction of the p3 part of a known p39 oscillator
+x = 112, y = 41, rule = B3/S23
+6bo43bobobo44bobobo2$6bo47bo48bo2$6bo43bobobo44bobobo2$6bo43bo52bo2$6b
+o43bobobo44bobobo9$2b6o34b2o16b2o$bo6bo32bo2bo14bo2bo$o8bo31bobo16bobo
+$bo6bo31b2ob2o14b2ob2o33b2o$2b6o41b3o44bo2bob2o5bo$40b2ob2o4bobo7b2ob
+2o31bob3obo4b3o$41bobo5b3o3b2o3bobo31bobo4bo3bo3b2o$41bobo16bobo31bo3b
+3o4b2o2bo$4bo3bo31b2ob2o14b2ob2o28b2ob2obo8b2o2bo$4bo3bo32bobo16bobo
+27bo2bo9b5obobo$4bo3bo32bobo5b3o3b2o3bobo27b2obo8bo8bo$40b2ob2o4bobo7b
+2ob2o27bob2o6bob3o2bo$49b3o39bo2bo3bobobo4bo$40b2ob2o14b2ob2o28b2o3b2o
+bo2bo2bo$41bobo16bobo38bobo$4bo4bo31bo2bo14bo2bo34b5o2bo$2b2ob4ob2o30b
+2o16b2o35bo3bo$4bo4bo88b3obobo$101bo2bo$100bo4bo$101b4o2$103b2o$103b2o
+!

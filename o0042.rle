@@ -1,0 +1,14 @@
+#C1. p3 and p14 rotor interaction by Matthias Merzenich, 13 Sep 2014
+#C     (using dr)
+#C2. By Matthias Merzenich, Oct 2014 (using JLS)
+#C     (based on a period-doubling reaction by Dean Hickerson)
+x = 73, y = 47, rule = B3/S23
+9bo47bobobo2$9bo51bo2$9bo47bobobo2$9bo47bo2$9bo47bobobo10$9b2o54b2o3b
+2o$9bo55bobo2bo$2o4b2obo57bo4bo$o2b2o3bo57bo4b2o$b2o60bo2b2o2bo$63b3o
+2bo2b2o$b2o63b2obobo$obobo3b2o48b2o5bo3bobo$o3b2o2b2o48bobo3bob2o2bo$b
+4o55bo3bobob2o$59b2ob2o4bo$3b2o4b2obo2bo42bo2bobobobo2bo$3bo5b2ob4o43b
+obo3bobob2o$4bo46b2o3b4obobobobobo$3b2o4b5o38bo2bo10bo2bo$8bo5bo37bobo
+bobobob4o3b2o$9bobob2o36b2obobo3bobo$7bobo5b2o34bo2bobobobo2bo$6bobo2b
+3o3bo35bo4b2ob2o$6bo2b2o4b2obo33b2obobo3bo$5b2o4b3o3bo33bo2b2obo3bobo$
+11bo2b3o33bobo3bo5b2o$14bo35bobob2o$49b2o2bo2b3o$51bo2b2o2bo$49b2o4bo$
+49bo4bo$51bo2bobo$50b2o3b2o!

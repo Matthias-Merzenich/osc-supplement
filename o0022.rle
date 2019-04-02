@@ -1,0 +1,6 @@
+#C1. By Mike Playle and Matthias Merzenich, 9 May 2013 (using Bellman)
+x = 24, y = 35, rule = B3/S23
+12bo2$12bo2$12bo2$12bo2$12bo8$b2o18b2o$o2bo2b2o8b2o2bo2bo$b2o2bobo8bob
+o2b2o$3b2o14b2o$3bo16bo$2obo6bo9bob2o$o2bob2o3b2o5b2obo2bo$2b2ob2o3bo
+7bob2o4$2b2ob2o3bo7bob2o$o2bob2o3b2o5b2obo2bo$2obo6bo9bob2o$3bo16bo$3b
+2o14b2o$b2o2bobo8bobo2b2o$o2bo2b2o8b2o2bo2bo$b2o18b2o!

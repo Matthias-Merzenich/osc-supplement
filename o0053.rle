@@ -1,0 +1,12 @@
+#C1. By Mike Playle, 25 Apr 2013 (using Bellman)
+x = 75, y = 95, rule = B3/S23
+39bo2$39bo2$39bo2$39bo2$39bo12$41b2o$40bobo$34b2o4bo$32bo2bo2b2ob4o$
+32b2obobo3bo2bo$35bobobobo$35bobob2o$36bo2$49b2o$40bo8bo$40b2o5bobo$
+47b2o$34bo$33bo$33b3o4$37b2o$38bo7b2o$35b3o7b2o$35bo11bo2$9bo$9b3o$12b
+o$11b2o7bobo$20b2o$21bo$3b2o$3bo$2obo66b2o$o2b3o5bo47b2o9bo$b2o3bo3b2o
+47bobo10bo$3bob2o45b2o5bo8b5o$3bo15b2o32bo13bo$4b3o12bobo31bobo12b3o$
+7bo13bo32b2o15bo$2b5o8bo5b2o45b2obo$2bo10bobo47b2o3bo3b2o$4bo9b2o47bo
+5b3o2bo$3b2o66bob2o$71bo$70b2o$53bo$53b2o$52bobo7b2o$62bo$63b3o$65bo2$
+27bo11bo$28b2o7b3o$27b2o7bo$36b2o4$39b3o$41bo$40bo$26b2o$25bobo5b2o$
+25bo8bo$24b2o2$38bo$34b2obobo$33bobobobo$30bo2bo3bobob2o$30b4ob2o2bo2b
+o$34bo4b2o$32bobo$32b2o!

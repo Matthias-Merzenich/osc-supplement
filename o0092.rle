@@ -1,0 +1,24 @@
+#C1. By Brice Due, 2006
+#C2. By Matthias Merzenich, 3 Jul 2013
+#C     (based on a traffic light push by Noam Elkies)
+x = 141, y = 107, rule = B3/S23
+32bo87bobobo2$32bo91bo2$32bo87bobobo2$32bo87bo2$32bo87bobobo12$26b2o2b
+2o4bo2b2o12b2o$26b2ob2o6b2obo12b2o73b2o$30bobo6bo87bobo$31b2o4b3o86bo$
+127b5o$31b2o4b3o84b3o2bo2bo$30bobo6bo83bo4bo2b2o$29b2o6b2obo12b2o67bob
+o3bo$30b2o4bo2b2o12b2o65bo2bob2o$120b2obob2o4b2o$123bo8bo$2o14b3o104b
+3o3b2obob2o$2o12bo3bo107b7o2bo$13bo4bo104b4o3bo2bo$13bo3bo104bo9b2obo$
+122bo2b2o3bo3b2o$13bo3bo103b2obob2obob2o$13bo4bo15bo85bo3b3o2bobo$2o
+12bo3bo8b2o6b2o83b2obo7bo$2o14b3o8b2o5b2o85bob3o3bobobo$121bo5b2obob2o
+$117bob2obob2o4bo$117b2obobo3bo2b2o$122bobob2o$121b3ob2ob3o$118bo7bo4b
+o$117bob3o7b2o2bo$118bo3bo4b2obob2o$119bo5bob2obobo$120bob4obo2bobo$
+121b4o2bobobo3b2o$48b2o72b3o5bo4bobo$48bobo71bo3b3o8bo$50bo71bo4bobo2b
+2o2b2ob2o$50b2o72b2obo9bob2o$126b3o3b4obo$129b3o3bobo$136bo2$111b2o$
+110bobo$110b2o$129b3o$114b3o12bobo$114bobo12b3o$114b3o$134b2o$133bobo$
+133b2o2$109bo3bobobo$108bobo$108bobo9bo$105b2obobob7obo$105b2obo8b2ob
+2obo$108bo6b4o3b2o$108bobo$109b2o3bo2bo3bo$113bobob2obo3b2o$113bob2obo
+bo2b2obo$112b2obo2b2o7bo$112bo2bo4bo3bo3bo$114bo4b4o3b2o$115b3obob3o$
+118bo2bo$115b2o4bobobob2o$115bo5b3ob2obo$112b2obo3bo4bo$112bobob2o2b3o
+bo$114bobo2bo2bob2o$114bobo2bobo3bo$113b2obo4bob2o$110b2o3b2ob3o2bo$
+110bob5o6bo$112bo3b2ob4o$110bo2b2ob2o$110b2obo3bo2b3o$113bo8bo$113b2o
+5bobob2o$118bo3bo2bo$120b2obo$113b2o2b2o3bo$113bo5b3o$114b5o$119bo$
+116bobo$116b2o!

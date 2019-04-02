@@ -1,0 +1,5 @@
+#C1. p40 sparker applied to a period 7n+1 phase shift reaction
+x = 27, y = 42, rule = B3/S23
+13bo2$13bo2$13bo2$13bo2$13bo12$22b2o$22b2o3$24bobo$11b3o$10b4o10bobo$
+13b2o4bo2$o13bo4b2o$3o4bobo10b4o$3bo16b3o$2b2o3bobo2$5b2o$10b2o$3bobo
+4b2o$b3obo$o4bo2bo$b3obob2o$3bobo$4b2o!

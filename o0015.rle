@@ -1,0 +1,14 @@
+#C1. An improved form of a known p15 oscillator
+#C     (still life reaction by Mike Playle, Feb 2010 using Bellman)
+#C2. By Matthias Merzenich, Aug 2014 (using dr)
+#C3. By Matthias Merzenich, Sep 2014 (using dr)
+x = 113, y = 41, rule = B3/S23
+10bo45bobobo41bobobo2$10bo49bo45bo2$10bo45bobobo41bobobo2$10bo45bo49bo
+2$10bo45bobobo41bobobo12$7b2o4b2o44b2o47b2o$7bobo2bobo42bo2bo41bo5bo$
+9bo2bo44b3o41bobob2obo$8bo4bo86bo2bobobob2o$8b2o2b2o41b7o38b2obo5bo$
+10b2o42bo3bo3bo40bo5bo$19b2o33b2o5b2o37b2ob2o3b2ob2o$2o2b2o10b2o2bo35b
+o3bo38bobobo5bob2o$o2bo12bob2o32b5o3b5o34bo9bo$bob2o5bo4bo35bo13bo30b
+2obo5bobobo$2bo6b2o4bo34bobo2bo5bo2bobo29b2ob2o3b2ob2o$3b2o5bo5bob2o
+31bo13bo33bo5bo$4bo11b2o2bo31b5o3b5o34bo5bob2o$2bo16b2o35bo3bo37b2obob
+obo2bo$2b2o50b2o5b2o37bob2obobo$10b2o42bo3bo3bo37bo5bo$8b2o2b2o41b7o
+37b2o$8bo4bo$9bo2bo44b3o$7bobo2bobo42bo2bo$7b2o4b2o44b2o!

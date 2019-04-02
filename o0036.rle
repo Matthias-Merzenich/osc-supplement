@@ -1,0 +1,19 @@
+#C1. By Karel Suhajda, 22 Jun 2013 (using JLS)
+#C     based on known pre-pulsar pushers
+x = 75, y = 54, rule = B3/S23
+37bo2$37bo2$37bo2$37bo2$37bo10$32b2o7b2o$32bobo5bobo$27b2ob2o2bo5bo2b
+2ob2o$28bobo3b2o3b2o3bobo$28bo2bo4bobo4bo2bo$26b2obobob2obobob2obobob
+2o$27bobo2b2obo3bob2o2bobo$26bo2bo2bo9bo2bo2bo$26bobob3obo5bob3obobo$
+27b2o4bo7bo4b2o$29b3obo7bob3o$10b2o4b2o7b4o17b4o7b2o4b2o$10bobo4bo3b2o
+bo25bob2o3bo4bobo$6b2o4bo3bo3bobobobo6bo7bo6bobobobo3bo3bo4b2o$6bobo2b
+ob2o2b4o2bobobo2bob2o7b2obo2bobobo2b4o2b2obo2bobo$3bo4b4obob2o4bobo2bo
+21bo2bobo4b2obob4o4bo$3b5o6bo3b3o2bo4bobo13bobo4bo2b3o3bo6b5o$8bo2b2ob
+5o3b2o4b3o13b3o4b2o3b5ob2o2bo$3b2o2bo2bobobo5bob2o4b2o15b2o4b2obo5bobo
+bo2bo2b2o$3bo2bob3o3bo2b2o3b2o4b3o13b3o4b2o3b2o2bo3b3obo2bo$5b2ob3o2bo
+4bobobob2obobo15bobob2obobobo4bo2b3ob2o$4b3o7bo3bobo2bobob2o17b2obobo
+2bobo3bo7b3o$4bo8b2ob2ob3o31b3ob2ob2o8bo$2o3b2o7bo45bo7b2o3b2o$o2bobo
+3b2obobob2o39b2obobob2o3bobo2bo$2b2o2bo2bob2obobo16b3o3b3o16bobob2obo
+2bo2b2o$5b2o7bobo8b3o5bobo3bobo5b3o8bobo7b2o$14b2o10bo6b3o3b3o6bo10b2o
+2$25b3o19b3o$24bo3bo17bo3bo$23bo5bo5b2ob2o5bo5bo$23bobobobo6bobo6bobob
+obo$22b2obobob2o3bobobobo3b2obobob2o$21bo2b2ob2o2bo2b2o3b2o2bo2b2ob2o
+2bo$21b2o7b2o11b2o7b2o!

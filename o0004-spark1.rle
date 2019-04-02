@@ -1,0 +1,9 @@
+#C1. Variant of Scot Ellison's p4 sparker
+#C2. By Noam Elkies, 10 Apr 2010 (Reduced by Matthias Merzenich)
+x = 70, y = 41, rule = B3/S23
+9bo47bobobo2$9bo51bo2$9bo47bobobo2$9bo47bo2$9bo47bobobo12$9bo49bo$6bo
+5bo44bo3bo$2b2o11b2o$bobo11bobo38bo5bo$bobob9obobo37bob5obo$2o15b2o33b
+2o2bo5bo2b2o$2bobo9bobo37bob3ob3obo$2bobo9bobo35bo2b2obobob2o2bo$3bo2b
+7o2bo37bo4bobo4bo$4b2o7b2o34b2o5b3ob3o5b2o$b3o11b3o31bo3b2o9b2o3bo$bo
+2bobo5bobo2bo32b3o3b7o3b3o$2b2o11b2o35bobobo2bo2bobobo$52b4o7b4o$8b3o
+42bo11bo$50b2ob5o3b5ob2o$57bo3bo$53b2o9b2o$54bo9bo$53bo11bo$53b2o9b2o!

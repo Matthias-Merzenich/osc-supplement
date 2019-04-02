@@ -1,0 +1,22 @@
+#C1. Added snarks to p55 glider loop
+#C2. By Matthias Merzenich, 13 Sep 2014
+#C     (p5 part based on a p3 eater 2 variant by Noam Elkies)
+x = 152, y = 84, rule = B3/S23
+34bo103bobobo2$34bo107bo2$34bo103bobobo2$34bo103bo2$34bo103bobobo12$
+48b2o$47bobo$41b2o4bo$39bo2bo2b2ob4o$39b2obobobobo2bo90b2o$42bobobobo
+93bo4bo$42bobob2o98bobo$43bo98bo3bobo$140b3obobo2b2o$56b2o4b2o75bo4b5o
+2bo$47b2o7bo5bo71b2o3b3obo5b2o$47b2o5bobo6b3o67bobo7bobob2o$54b2o4b3o
+3bo66bo5b2obo2b2obo$59bo2bobo2bo62b2obo5b2obobo$58bob3ob2obo62b2obob2o
+6b2o$39bobo17bo2bobo2b2o64bo$39b2o19b4o2bo2bo63bobo$40bo16b3o7bobo62b
+2obobobo2bo$57bo3bo4b2obob2o61bob2ob4o$44b2o6b2o4b3ob2o2bo3bobo61bo3bo
+$45bo6bobo5bobo4b3o63b2o3bobo$42b3o7bo11b2obo2b2o3b2o62b2o$42bo18b6o3b
+obobob3o$63b3o6bobo4bo$72b2ob2obobo$70bobo5bobo$8b2o54bo5bo2bob2o2bo$
+8bobo52bobo4bob3o2b2o$9b2o2b2o11bo36b2o6b2o2b2o$10b2o2bo10bo41b2o7bo$
+10bo2bo11b3o39b2o7bobo$17b2o43b2o13b2o$2b2o13b2o43b2o$2bobo7b2o39b3o
+11bo2bo$4bo7b2o41bo10bo2b2o$4b2o2b2o6b2o36bo11b2o2b2o$2b2o2b3obo4bobo
+52bobo$bo2b2obo2bo5bo54b2o$obo5bobo$obob2ob2o$bo4bobo6b3o$2b3obobobo3b
+6o18bo$4b2o3b2o2bob2o11bo7b3o$11b3o4bobo5bobo6bo$8bobo3bo2b2ob3o4b2o6b
+2o$8b2obob2o4bo3bo$11bobo7b3o16bo$11bo2bo2b4o19b2o$12b2o2bobo2bo17bobo
+$13bob2ob3obo$13bo2bobo2bo$14bo3b3o4b2o$15b3o6bobo5b2o$18bo5bo7b2o$17b
+2o4b2o2$37bo$33b2obobo$32bobobobo$29bo2bobobobob2o$29b4ob2o2bo2bo$33bo
+4b2o$31bobo$31b2o!

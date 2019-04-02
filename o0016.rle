@@ -1,0 +1,17 @@
+#C1. Based on new p8 oscillators (see o0008.rle)
+#C2. Based on reactions by Dean Hickerson
+#C     (p8 oscillator by Tim Coe, 19 Aug 1997)
+x = 110, y = 55, rule = B3/S23
+20bo65bobobo2$20bo69bo2$20bo65bobobo2$20bo65bo2$20bo65bobobo10$27bobo
+6bo$7bo6bo10b3ob3obobobo34bo3b2o18bo3b2o$7b3o3bobo8bo7b2ob2o36b2ob2o
+19b2ob2o$5b2o3bo5bo8b6o3bo36bobo21bobo$4bo2b2o2bobo16b2ob2o37bo23bo$3b
+o2bo4bobo11bobob2o2bob2o29b2o2b3o4b2obo2bo6b2o2b3o4b2ob2o$2obo7bo2bo5b
+o3bo3bobo4bo30b2o9b2ob4o6b2o9b2obo$2obo7bobo5b2o3bo3bobo4bo70bo$3bo2bo
+4bo2b2o3b2o4bobob2o2bob2o40b5o19b5obo$4bo2b2o2bobo5bo10b2ob2o41bo5bo
+17bo5bo$5b2o3bo14b6o3bo42b2o2b2o15b3obobo$7b3o4b2o8bo7b2ob2o35b2obobo
+19bo3b2ob2o$7bo7bo9b3ob3obobobo34bob2o2bo19b2o3bo$27bobo6bo40b2o21b2ob
+o$100bobo7$72bo3b2o18bo3b2o$73b2ob2o19b2ob2o$71bobo21bobo$72bo23bo$66b
+2o2b3o4b2obo9b2o2b3o4b2obo2bo$66b2o9b2ob3o7b2o9b2ob4o$83bo$77b5o2bo16b
+5o$76bo5b3o15bo5bob2o$77b2o2bo19b2o2b2obo$72b2obobobo2bo16bobobo2bo2bo
+$72bob2obob2obo15bobo2b3o2b2o$78bo2bo16bo2b2o$79b2o16b2o4b3o$103bo2bo$
+105b2o!

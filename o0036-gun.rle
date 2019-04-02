@@ -1,0 +1,10 @@
+#C1. 2-engine gun by Adam P. Goucher, 19 Jan 2010
+#C     Improved p4 sparker by Scot Ellison, 5 Apr 2010
+x = 49, y = 70, rule = B3/S23
+24bo2$24bo2$24bo2$24bo2$24bo12$25bo$25b3o$28bo$27b2o7$39b2o$38bo2bo$
+36bo2bobo$29b3o4bo3bo$29bo2bo3bo$29bob2o6bo$37b2o4$44b2o$44b2o$27b2o$
+26bo6b2obo5b6o$29bo3bo2bo4bo6bo$25bo3bo4b3o5b3o2b2o$24bobo2bo$24bo2bo
+16bo$25b2o14bo2bo$44bo$44bo2b2o$40bo3bo2b2o$11b2o27bo3bo$10bo2bo30bo$
+10bobo2bo25bo2bo$11bo4bo15bobo8bo$16bo16b2o6bobobo$12b3o6bo11bo7b2obob
+o$19b2ob2o20bobo$20bo2bo20b2o$8bo12b2o$7bo8b2o$15bo2bo$15b2ob2o$17bo6b
+3o14bobo$2b2o18bo19b2o$bobo18bo4bo14bo$bo21bo2bobo$2o23bo2bo$26b2o!

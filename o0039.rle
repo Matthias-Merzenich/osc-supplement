@@ -1,0 +1,16 @@
+#C1. Reduction of the p3 part of a known p39 oscillator
+#C2. p3 and p13 rotor interaction by Matthias Merzenich, 13 Sep 2014
+#C     (using dr)
+#C3. By Matthias Merzenich, Oct 2014
+x = 117, y = 49, rule = B3/S23
+10bo50bobobo40bobobo2$10bo54bo44bo2$10bo50bobobo40bobobo2$10bo50bo48bo
+2$10bo50bobobo40bobobo12$14b2o43b3o42bob2o$14b2o86b3obobo$59bo41bo7bo$
+12b4o42b2o40bo2b6obob2o$11bo4bo43bo39b3o7bobo$12bo2bo41bo45bobo4bo2bo$
+9b3obobo41bo3bo38b2obo6bob2o$8bo3bo42b2o43bo2bo4bobo3b2o$8b5o2bo37bo5b
+3o2b2o35bobo7b3o2bo$12bobo35bob2o4bo5b2o34b2obob6o4b2o$8b2obo2bo2bo32b
+o3bo3bo45bo6bo$8b2obobo4bo31bo5bobo47b2o2b2o$2b2o8bob3o2bo46bobo2bo33b
+2obo3b2o$2bobo8bo8bo43b6o36b3o3bo$3bo10b5obobo35b2o5bo39b3o4b2obo$5bob
+o10b2o2bo35b2o5bob3o35bo2b3o3bo$b6o9b2o2bo43bo5bo37bo2b3o$o15bo3b2o43b
+2o2b2o40bo$b6o10b3o43bobobo3b2o$5bobo11bo42bobo2b3o3bo$3bo58bo2b2o4b2o
+bo$2bobo56b2o4b3o3bo$2b2o63bo2b3o$8b2obo58bo$8b2ob3o$14bo$8b2ob3o$6bo
+2bobo$6b2o!

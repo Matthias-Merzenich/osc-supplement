@@ -1,0 +1,9 @@
+#C1. p12 and p14 rotor interaction by Noam Elkies, 14 Sep 2014
+x = 27, y = 57, rule = B3/S23
+13bo2$13bo2$13bo2$13bo2$13bo12$9b2o$9bo$2o4b2obo$o2b2o3bo$b2o2$b2o$obo
+bo3b2o$o3b2obo2bo$b4o10b2o$10bo4bo$3b2o3bo3bo3b3o$3bo5bob5o2bo$5bo10bo
+$4b2o3b5o2b2o$8bo5bobo2bo$4b2o3b2o2b2o3b2o$4bo2bobo5bo$6b2o2b5o3b2o$b
+2o4bo11bo2b2o$bobobo2b4ob2o4bobobo$3bob2obo2bob2o3b2obo$2b2o2bo12bobo$
+4bobo8bobo3bobob2o$2b2o2b2o6bo4bobob2obo$3bobo2bob2o2bo3bo3bo$3bob2obo
+b2o3bo8b2o$4bo3bo16bo$5b2obob2o4bobo2bo2bo$6bobo2bo3bob5o2b2o$6bo2bo$
+7b2o5bob4o$14bo5bo$15b2o2b2o$10b2obobo$10bob2o2bo$15b2o!

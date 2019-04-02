@@ -1,0 +1,6 @@
+#C1. p14 and p16 rotor interaction by Noam Elkies, 14 Sep 2014
+x = 26, y = 46, rule = B3/S23
+13bo2$13bo2$13bo2$13bo2$13bo12$9b2o$9bo$2o4b2obo$o2b2o3bo$b2o2$b2o$obo
+bo3b2o$o3b2obo2bo$b4o10b2o$10bo4bo$3b2o3bo3bo3b3o$3bo5bob5o2bo$5bo10bo
+$4b2o3b5o2b2o$8bo5bobo2bo$4b2o3b2o2b2o3b2o$4bo2bobo5bo$6b2o2b4obo$7bo$
+5bo2b5obo9b2o$5b3o3bobo5b3o2b2o$8bo10bo$7b2o9bobo$14b2ob2o$14b2o3bo!

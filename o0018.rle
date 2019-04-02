@@ -1,0 +1,13 @@
+#C1. By Matthias Merzenich, Sep 2014 (using dr)
+#C2. By Matthias Merzenich, 13 Sep 2014 (using JLS)
+x = 88, y = 41, rule = B3/S23
+17bo59bobobo2$17bo63bo2$17bo59bobobo2$17bo59bo2$17bo59bobobo11$30bo$4b
+ob2o16b2o3bobo43bo$4b2o2bo16bo2bobobo41bobo$2o5bo5b2o7b3o3bo3b3o38bobo
+bo$bo2b3ob3o2bo7bo3b3ob3o3bo37bo3b3o$bobo4bo2bobo6bobobo4bo2bob2o34b2o
+bob2o3bo$2o2bobobobo2b2o6bo3bobobobo38bobobobobobo$2bo7bobo9b2o7bob2ob
+o35bo5b2o$2bob5obobo10bob5obobob2o34bobo$b2obo5bob2o9bobo5bobo38bo2b7o
+$2bobob5obo7b2obobob5obo39b2o7bo$2bobo7bo7bob2obo7b2o40b2o3b3o$2o2bobo
+bobo2b2o10bobobobo3bo39bo7b2o$bobo2bo4bobo7b2obo2bo4bobobo39b7o2bo$bo
+2b3ob3o2bo7bo3b3ob3o3bo46bobobo$2o5bo5b2o7b3o3bo3b3o43b5o2bo$6bo2b2o
+13bobobo2bo45bobobobobobo$7b2obo14bobo3b2o44bo6bob2o$26bo51b3obobo$80b
+obobo$81bobo$82bo!

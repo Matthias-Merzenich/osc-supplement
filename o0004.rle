@@ -1,0 +1,5 @@
+#C1. By Matthias Merzenich, Oct 2013 (using WLS)
+#C     (possibly known earlier)
+x = 11, y = 26, rule = B3/S23
+5bo2$5bo2$5bo2$5bo2$5bo9$3b2o$bobo$o$bo2b4o2$5bo3bo$2bobobo3bo$2b2o3bo
+bo$6b2o!

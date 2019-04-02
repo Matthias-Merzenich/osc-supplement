@@ -1,0 +1,13 @@
+#C1. By Stephen Silver, 13 Oct 2002
+#C     (based on a reaction by Dieter Leithner)
+#C2. By Nicolay Beluchenko, 9 Nov 2010
+x = 135, y = 60, rule = B3/S23
+25bo87bobobo2$25bo91bo2$25bo87bobobo2$25bo87bo2$25bo87bobobo9$123b2o5b
+2o$123b2o5b2o2$30b2o5b2o$26b2o2b2o5b2o2b2o$26b2o13b2o3$124bo5bo$8b3o
+112b3o3b3o$7bo2bo111bo2b2ob2o2bo$7bo2bo111b3o5b3o$7b2o2$32b2ob2o$32b2o
+b2o$17b3o12b2ob2o$17bo2bo9bob2ob2obo$20bo9b3o3b3o$3o15b3o10bo5bo$o122b
+3o$o2bo98b3o17bo3bo$b3o97bo2bo17b2ob2o$101bo2bo18bobo$43b2o56b2o$44bo
+78bobo$12b2o25b2obo79b2ob2o$10bo2bo25b2ob2o78bo3bo3b2o$10bo2bo97b3o9b
+3o4b2o$10b3o26b2ob2o67bo2bo$33bobo4bobo71bo$34b2o4bobo51b3o15b3o$34bo
+6bo52bo$29bobo62bo2bo$28bob2o63b3o$28bo$27b2o2$106b2o$104bo2bo$104bo2b
+o24bo$104b3o26b2o$132b2o!

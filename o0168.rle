@@ -1,0 +1,12 @@
+#C1. Added p4 sparker stabilization
+x = 63, y = 75, rule = B3/S23
+31bo2$31bo2$31bo2$31bo2$31bo12$20bo$22bo$17bo4bo$16bo5b2o$23bo$20b4o$
+14bo4bo4b3o$19bob2obob3o$15b3obob2obo$17b3o4bo4bo10b2o$20b4o16b2o$20bo
+$20b2o5bo$21bo4bo$21bo32bo$23bo29b3o$52bo3b2o$51b2o2b3o$50bobo$49b3ob
+4o2b2o$48bo3bo4bob2o$9b2o11bo24b2o3bob2obobobo$9b2o10bobo24bobobob2obo
+3b2o$20bo3bo24b2obo4bo3bo$20bo3bo24b2o2b4ob3o$20b2ob2o32bobo$52b3o2b2o
+$52b2o3bo$54b3o$55bo4$7bo$6b3o$5bo3b2o$4b2o2b3o$3bobo$2b3ob4o2b2o$bo3b
+o4bob2o$2o3bob2obobobo37b2o$bobobob2obo3b2o36b2o$2b2obo4bo3bo$2b2o2b4o
+b3o$10bobo$5b3o2b2o$5b2o3bo30bo$7b3o24bo3bo4bob2o$8bo24bobo10bo$33bobo
+8b2o$30b2obobob7o2b3o$30b2obo11bo2bo$21b2o10bo12b2o$21b2o10bobo$34b2o
+3b3o!

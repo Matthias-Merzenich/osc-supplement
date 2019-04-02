@@ -1,0 +1,10 @@
+#C1. By Matthias Merzenich, 30 Aug 2014 (using dr)
+#C2. "Honey thieves" by Matthias Merzenich, 10 Sep 2014 (using dr)
+x = 75, y = 43, rule = B3/S23
+12bo52bobobo2$12bo56bo2$12bo52bobobo2$12bo52bo2$12bo52bobobo10$9bo$8bo
+bo$9bo2b2o$13bo$7b6o$6bo6b3o$6b3o3bo3bob2o40bo11bo$13bo2bobobo39b3o7b
+3o$6b7obobobobo2bo39bo5bo$5bo6bobobo3bobobo37bo6b2o$5bo2b3o2b2obo3bo2b
+o39bo$2b2obobo2bo5bo3bo45b2o$2bobobob2o5b2obobobo43b2o$4bo3bo5bo2bobob
+2o$bo2bo3bob2o2b3o2bo47b2o$obobo3bobobo6bo47b2o$bo2bobobobob7o52bo$4bo
+bobo2bo52b2o6bo$5b2obo3bo3b3o46bo5bo$9b3o6bo43b3o7b3o$12b6o44bo11bo$
+11bo$11b2o2bo$14bobo$15bo!

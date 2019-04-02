@@ -1,0 +1,15 @@
+#C1. Blinker and pond stabilizations by Matthias Merzenich
+#C     (using Nicolay's version of randagar)
+x = 118, y = 66, rule = B3/S23
+58bo2$58bo2$58bo2$58bo2$58bo11$2o56b2o50b2o$bo24b2o4b2o24bo50bobo$bobo
+21bo2bo2bo2bo21bobo50bo$2b2o7b2o12bo2bo2bo2bo12b2o7b2o45b2o2b2ob4o$13b
+o12b2o4b2o12bo56bo2bo3bo2bo$8bo4b2o30b2o4bo53b2obo5b2o$8b2o3bo32bo3b2o
+54bo4b3o2bo$12bo34bo58bob2o4b2obo$107bo3bobo3bo$12bo34bo60b3o3b3o$8b2o
+3bo32bo3b2o35b2o21bobobo$8bo4b2o30b2o4bo36bo22b3o$13bo12b2o4b2o12bo41b
+obo21bo$2b2o7b2o12bo2bo2bo2bo12b2o7b2o31b2o7b2o$bobo21bo2bo2bo2bo21bob
+o41bo$bo24b2o4b2o24bo36bo4b2o$2o56b2o35b2o3bo$99bo$79bo$79b3o17bo$82bo
+12b2o3bo$81b2o12bo4b2o$100bo$98b2o12b2o$112bobo$114bo$84b2o3b2o23b2o$
+85bo3bo2$82bo9bo$2o47b2o31bo3bobo3bo$bo47bo33b3o3b3o$bobo43bobo34bo5bo
+$2b2o7b2o11b3o11b2o7b2o$13bo23bo$8bo4b2o21b2o4bo$8b2o3bo23bo3b2o$12bo
+25bo2$12bo25bo$8b2o3bo23bo3b2o$8bo4b2o21b2o4bo$13bo23bo$2b2o7b2o11b3o
+11b2o7b2o32b2o9b2o$bobo43bobo32bo9bo$bo47bo29b3o11b3o$2o47b2o28bo15bo!

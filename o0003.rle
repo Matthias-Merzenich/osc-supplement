@@ -1,0 +1,18 @@
+#C1. Reduced stator for a known oscillator
+#C2. A long-known keys variant
+#C3. By Nicolay Beluchenko, Dec 2012
+#C4. By Nicolay Beluchenko, Jan 2013
+#C5. By Nicolay Beluchenko,     2013?
+x = 242, y = 51, rule = B3/S23
+4bo40bobobo51bobobo68bo3bo55bobobo2$4bo44bo55bo68bo3bo55bo2$4bo40bobob
+o51bobobo68bobobo55bobobo2$4bo40bo59bo72bo59bo2$4bo40bobobo51bobobo72b
+o55bobobo11$191b2o$42b2o147bobo38b2o$4bo37bobo38bobo5bo25bo61b2o12bo
+39bo$3bobo76bo3bo4bo21b3obo42bob3o14bo11bo41bob2o$3bo2bo37b2o37bo3bo3b
+o24bobo40bobo15bobo11bo2b2o38bo$2ob2obo38b3o37b3o3bo16b4o6bo40b2o12bob
+2obo13bo45bo$bo4b2o81bo3b3o16bo6b4o36b2o10b3o2bo15bobo41b2obo$bobobo
+83bo3bo3bo14bobo39b3ob2o16bobo59bobo$2bo2bo40b3o40bo4bo3bo14bob3o38bo
+2bo32bobo43bo2bo$3b2o43b2o39bo5bobo15bo62bo2bo12b2obo41bobobo$158bobo
+16bobo15bo42bobo$49bobo107bo18bo16b2o42bo$50b2o9$155b2o14b2o21b2o$155b
+o15bobo19bo2bo$156bob3o14b2o15bobobo$158bobo12bo4bo14bobo$159bo15bob2o
+14bo$155bo35b2o$154bo3bo18bo15bo$155bob2o17bobo10bo$175bob2o9bob2o$
+158bobo14bo12bo$159b2o13b2o11b2o!

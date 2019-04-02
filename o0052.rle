@@ -1,0 +1,21 @@
+#C1. Added snarks to p52 glider loop
+x = 86, y = 94, rule = B3/S23
+43bo2$43bo2$43bo2$43bo2$43bo12$36b2o$36bobo$38bo4b2o$34b4ob2o2bo2bo$
+34bo2bobobobob2o$37bobobobo$38b2obobo$42bo21b2o$63bobo2b2o$28b2o33b2ob
+o2bo$29bo7b2o21b2obob3o$29bobo5b2o22bo2bo3b4o$30b2o29bo5bo3bo$62b4obob
+o$66b2ob2o$62b3o2bo$45bobo13bo5bo12bo$34bo11b2o13bo5bobo9bobo$9bo24b2o
+10bo11b2obob4obobo$8bobo22bobo4b2o16bob2ob4obo2bo7bo$9bo30bo27bo3bo6bo
+2bo$41b3o15b3obo2bo2b3o6bo$7b5o31bo14bobo6bobo8bo$6bo4bo46bo3b2o3b2o9b
+o3bo$5bo2bo50b3ob2ob2o11b3o$2bo2bob2o52bobo2bo7b3o7b2o$bobobo5bo58bob
+2o3bo6b2o$2bo2bo4bobo49bo3bo2bo7bo$5b2o2bo2bo51bo5bo6bo$10b2o46bobo12b
+o2bo$21bo37b2o$21b2o36bo18b2o$20bobo55b2o$27b2o41bo$6b2o19bo42bobo$4bo
+2bo17bobo44bo9b2o$3bob2o7b2o9b2o43bobo9bo$3bo9bobo43b2o9b2o7b2obo$2b2o
+9bo44bobo17bo2bo$13bobo42bo19b2o$15bo41b2o$6b2o55bobo$6b2o18bo36b2o$
+25b2o37bo$9bo2bo12bobo46b2o$8bo6bo5bo51bo2bo2b2o$8bo7bo2bo3bo49bobo4bo
+2bo$2o6bo3b2obo58bo5bobobo$2o7b3o7bo2bobo52b2obo2bo$4b3o11b2ob2ob3o50b
+o2bo$3bo3bo9b2o3b2o3bo46bo4bo$7bo8bobo6bobo14bo31b5o$7bo6b3o2bo2bob3o
+15b3o$3bo2bo6bo3bo27bo30bo$6bo7bo2bob4ob2obo16b2o4bobo22bobo$15bobob4o
+bob2o11bo10b2o24bo$4bobo9bobo5bo13b2o11bo$5bo12bo5bo13bobo$18bo2b3o$
+15b2ob2o$16bobob4o$14bo3bo5bo29b2o$14b4o3bo2bo22b2o5bobo$18b3obob2o21b
+2o7bo$16bo2bob2o33b2o$16b2o2bobo$20b2o21bo$42bobob2o$42bobobobo$39b2ob
+obobobo2bo$39bo2bo2b2ob4o$41b2o4bo$47bobo$48b2o!

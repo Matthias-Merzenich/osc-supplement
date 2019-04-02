@@ -1,0 +1,25 @@
+#C1. By Matthias Merzenich, 13 May 2013
+#C2. By Matthias Merzenich, 15 Sep 2014 (using JLS)
+#C     (based on a phase shift reaction by Noam Elkies)
+#C2. By Matthias Merzenich, Oct 2014 (using JLS)
+#C     (based on a period-doubling reaction by Dean Hickerson)
+x = 145, y = 62, rule = B3/S23
+12bo57bobobo51bobobo2$12bo61bo55bo2$12bo57bobobo51bobobo2$12bo57bo59bo
+2$12bo57bobobo51bobobo12$5b2o8b2o44b2o10bo64b2o$6bo8bobo43bobo5bob3o
+64bo$6bobo7b2o45bo2bo2b2o9bo54b2obo$7b2o50b4o3b3o3b2o4b3o48b2o4bobob2o
+$11b3o44bo4b3o3b3obo3bo5bob2o42bo2b2obo3bobo$11bobo41bo2b5o4b2o8b2o4b
+2obo39b2obob2o2b2o2bobo$11b3o41b3o6b3o2b2o3b3obo2b2o43bobobo3bo4bobob
+2o$58bo3bobo2bobo2b2o2bobobo3b2o44bob2obobobobob2o$57bo2bo6bo3b2o4bobo
+b3ob3o41bobobobo4bo$58b3ob2o2b2o4bo2b2o2bo3bo4bo37bo2bobo5b3o$61bo17bo
+4b5o33bob6obob4o$11b3o44b2o2b6o3b2o4bo2b3obo37b2o14b2o$10b5o43bo9bo3bo
+2b2o3b4ob2o38b4obob6obo$8b9o42b6obobo3b2o2bob3o4bobo34b3o5bobo2bo$7bob
+o5bobo43bo2bobobobo2bobo5b3obo2bo32bo4bobobobo$2b2o5bo5bo5b2o43bobob3o
+2b6o3bob2o29b2obobobobob2obo$bobo2bo3b5o3bo2bobo41b2obo4b2o7b2o2bo30b
+2obobo4bo3bobobo$o2bobob2obobobob2obobo2bo43bo3bo2bo2b4o4bobo31bobo2b
+2o2b2obob2o$b3obobo4bo4bobob3o44b2o3b2o3bo2bo5b2o31bobo3bob2o2bo$5b2ob
+4ob4ob2o101b2obobo4b2o$3b2obo4bobo4bob2o101bob2o$3bo3b4o3b4o3bo101bo$
+4b3obo2b3o2bob3o101b2o$b3o2b2ob2o3b2ob2o2b3o$o3b2obobo2bo2bobob2o3bo$o
+bo4b2o2b3o2b2o4bobo$bob2o15b2obo$3bo3b5ob5o3bo$3bo3bo3bobo3bo3bo$b2ob
+2o2bo7bo2b2ob2o$2bo2b4o7b4o2bo$2bob2o3b2o3b2o3b2obo$3b2o2b2o2bobo2b2o
+2b2o$6bobo2bobo2bobo$b4o3bob2ob2obo3b4o$bo2bo3bo7bo3bo2bo$2bo5bo7bo5bo
+$3b5o9b5o2$5bo13bo$4bobo11bobo$5bo13bo!

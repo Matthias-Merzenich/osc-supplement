@@ -1,0 +1,11 @@
+#C1. By Dean Hickerson, 2008 (using dr)
+x = 65, y = 36, rule = B3/S23
+32bo2$32bo2$32bo2$32bo2$32bo11$31bob2o21b2o$3b2ob2o4b2o17b2obo21bo2bo$
+4bobo5bo13b2o9b2o19b2o$2bo3bo3bobo13bo4b3o4bo7bo7b4o$2b2o2b2o2b2o12b2o
+2bobo3bobo2b2o5b3o4bo4b2o$25bob2obo3bob2obo9bo3bo3bo2bo$2b7o4b2o10bobo
+2bo3bo2bobo8bo2b2o2bobobo2bo$bo5bobobo2bo2bo6b2o2bo7bo2b2o7b3o6bobob2o
+$obo3b2obob2obobobo7bobo2bobo2bobo12bo7bo$bo5bobobo2bo2bo6b2o2bo7bo2b
+2o7b2obobo6b3o$2b7o4b2o10bobo2bo3bo2bobo8bo2bobobo2b2o2bo$25bob2obo3bo
+b2obo10bo2bo3bo3bo$2b2o2b2o2b2o12b2o2bobo3bobo2b2o10b2o4bo4b3o$2bo3bo
+3bobo13bo4b3o4bo14b4o7bo$4bobo5bo13b2o9b2o12b2o$3b2ob2o4b2o16bob2o17bo
+2bo$30b2obo19b2o!

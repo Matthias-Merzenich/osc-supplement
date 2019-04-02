@@ -1,0 +1,13 @@
+#C1. By Karel Suhajda, 3 Jul 2013 (using JLS)
+#C2. By Matthias Merzenich, 18 Sep 2014 (using JLS)
+#C3. By Matthias Merzenich, Sep 2014
+#C     (using Nicolay's version of randagar)
+x = 110, y = 49, rule = B3/S23
+9bo46bobobo40bobobo2$9bo50bo44bo2$9bo46bobobo40bobobo2$9bo46bo48bo2$9b
+o46bobobo40bobobo12$9bo$6bo5bo$6bo5bo$6bo2bo2bo$65bo31b2o$2b2o4bobo4b
+2o40b2o4b3o32bo2bo$o2bo3b2ob2o3bo2bo38b2o3bo35bobobo$2o15b2o44bo33b2ob
+o2bo$5bob5obo49bo34bobo2bo$5bob5obo43bo40bobo$51b2obob3o3bo36bo5b2o$2b
+2o11b2o34bob2obo5bo37b2o5bo$2bo5bobo5bo39bob2obo40bo5bo$3b2o2bo3bo2b2o
+40bo2bobobo38bob4o$8bobo46b2o3b2o39bo$b7o3b7o86b6o$bo6bobo6bo88bo2bo$
+3bob9obo$2b2obo3bo3bob2o$6b2obob2o$7b2ob2o$5bo7bo$3b3ob2ob2ob3o$2bo13b
+o$3bob2obobob2obo$2b2obo2bobo2bob2o$5bob2ob2obo$5bo2bobo2bo$6b2o3b2o!

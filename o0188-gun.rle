@@ -1,0 +1,11 @@
+#C1. Added still life stabilization to one end of the known p188 gun
+#C     (still life stabilization by Mike Playle, 9 May 2013)
+x = 65, y = 46, rule = B3/S23
+33bo2$33bo2$33bo2$33bo2$33bo12$19bo7b2o3bo$19b3o5b2o3b3o5b2o7bo$13bo8b
+o12bo4b2o5b3o$13b3o5b2o11b2o10bo8bo$16bo29b2o5b3o$15b2o7bo27bo$23b3o
+15bo10b2o$3b2o17b2ob2o13b2o$2bo2bo15b3ob3o11bob6obo$bobo2bo15b2ob2o11b
+3o2bob2o2b2o$bobo3bo15b3o13bo4bo4bo12b2o$2obob6o13bo15b2o5b2o8b2o2bo2b
+o$3bo2bobo33bo3bo10bobo2b2o$3b3obo2bo31bobobo13b2o$b2o3bobobo32b3o15bo
+$o2bob2obo35bo16bob2o$b2o3bob2o48b2obo2bo$3b2o4bo48b2ob2o$3bobo3bo$2ob
+o5b2o$bobob2o$bobo2bo16b2o31b2o$2bo2bo17bo20b2o10bo$3b2o12b2o5b3o8bo9b
+o11b3o$17b2o7bo9bo5b3o5b2o7bo$34b3o5bo7b2o!

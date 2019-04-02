@@ -1,0 +1,16 @@
+#C1. By Mike Playle, 25 Apr 2013 (using Bellman)
+#C2. Based on "honey thieves" and Noam Elkies' p3 eater 2 variant
+x = 144, y = 93, rule = B3/S23
+37bo90bobobo2$37bo94bo2$37bo90bobobo2$37bo90bo2$37bo90bobobo12$40b2o
+93b2o$39bobo93b2o$33b2o4bo$31bo2bo2b2ob4o89b4o$31b2obobo3bo2bo88bo4bo$
+34bobobobo92bo2bo$34bobob2o90b3obobo$35bo93bo3bo$120bo8b2ob2o2bo$48b2o
+70b3o10bobo$39bo8bo74bo5b2obo2bo2bo$39b2o5bobo73bo6b2obobo4bo$46b2o75b
+o9bob3o2bo$33bo92b2o6bo8bo$32bo93b2o7b5obobo$32b3o104b2o2bo$127b2o8b2o
+2bo$127b2o8bo3b2o$131bo6b3o$36b2o7bo78b2o6bo7bo$37bo6b2o79bo5bo$34b3o
+7bobo75b3o7b3o$34bo87bo11bo$9bo$9b3o$12bo$11b2o8bo$19b2o$20b2o$3b2o$3b
+o$2obo64b2o$o2b3o5bo45b2o9bo$b2o3bo3b2o45bobo10bo$3bob2o43b2o5bo8b5o$
+3bo15b2o30bo13bo$4b3o12bobo29bobo12b3o$7bo13bo30b2o15bo$2b5o8bo5b2o43b
+2obo$2bo10bobo45b2o3bo3b2o$4bo9b2o45bo5b3o2bo$3b2o64bob2o$69bo$68b2o$
+51b2o$52b2o$51bo8b2o$60bo$61b3o$63bo$38bo$26bobo7b3o$27b2o6bo$27bo7b2o
+4$38b3o$40bo$39bo$25b2o$24bobo5b2o$24bo8bo$23b2o2$37bo$33b2obobo$32bob
+obobo$29bo2bo3bobob2o$29b4ob2o2bo2bo$33bo4b2o$31bobo$31b2o!

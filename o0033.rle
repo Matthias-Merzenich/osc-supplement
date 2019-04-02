@@ -1,0 +1,29 @@
+#C1. Alternate stabilization of a known p33 and a reduced reflector
+#C     by Matthias Merzenich (using Bellman)
+#C2. Reduction of the p3 part of a known p33 oscillator
+x = 244, y = 156, rule = B3/S23
+70bo159bobobo2$70bo163bo2$70bo159bobobo2$70bo159bo2$70bo159bobobo22$bo
+4b2o221b2o9bo$obo2bobo215b2o3bobo7b3o$bo4bo217bo3bo8bo3b2o$224bob2ob4o
+4b2o2bo$123b2o3b2o92b2obobobo2bo6b2o2bo$123bobo4bo92bobo9b5obobo$124b
+2o3bo93bobo8bo8bo$12b2o111b2obo91b2obobo7bob3o2bo$8b2obo2bo106b2o97b2o
+b2o4b2obobo4bo$7bobo5b5o101b2o100bo7b2o2bo2bo$7bo3bo5bo2bo202bobo7bobo
+$7bo3b2o8bo202b2o3b2ob2o2bo$8bo8b2o3bo103bo102bo3bo$9bo2bo5bo3bo95b2o
+110b3obobo$10b5o5bobo94b2ob2ob4o106bo2bo$15bo2bob2o77b2o18bo4b2o106bo
+4bo$16b2o81b2o11bo11bo108b4o$106bo3b2ob2o$112b2o121b2o$17b2o216b2o$17b
+obo$18bo5bo3b2o$21bobobo3bo85bo$16b6ob2o3bo87bo$16bo10bo66b4o4bo4bo6b
+3o$19b4ob4obo64bo2bo2bo2bo4bo$19bo2bobo3bobo52b2o10b3o10bo$27bo2bo51bo
+5b3o10b2o$28b2o52bo2bo2bo2bo$82bobo3b4o$106bo$106b2o14bobo$105bobo15b
+2o$86b2o35bo$86b2o$82b3o$79bo$78bobo2bobo$79bo4b2o$97b3o32bo$99bo30bob
+o12bo$98bo32b2o11bobo$144bo2bo2$147bo4bobo$145b3o6b2o$144bobo7b3o$89b
+2o48bo4b2o8bo$90b2o48b2o6b2o$89bo49b2o7b2o4bo$154bo$153bobo$153b2o$
+154bo2$81b2o64bo$80bobo63bo10bo$82bo63b3o8b2o$156bobo$157bo$46bo110bo
+4b2o$45bobo114b2o$45bo2bo108bo8b2o$73bo81b3o7bobo$48bo4bobo17b2o63bobo
+15b2o6b3o$46b3o6b2o15bobo63b2o17bobo4bo$45bobo7b3o81bo$45b2o8bo108bo2b
+o$49b2o114bobo$49b2o4bo110bo$55bo$54bobo$54b2o8b3o63bo$55bo10bo63bobo$
+65bo64b2o2$58bo$58b2o$57bobo$58bo$58bo4b2o7b2o49bo$63b2o6b2o48b2o$58bo
+8b2o4bo48b2o$56b3o7bobo$57b2o6b3o$58bobo4bo2$65bo2bo$66bobo11b2o32bo$
+67bo12bobo30bo$80bo32b3o$127b2o4bo$127bobo2bobo$133bo$128b3o$125b2o$
+89bo35b2o$88b2o15bobo$88bobo14b2o$106bo$121b4o3bobo$121bo2bo2bo2bo$
+110b2o10b3o5bo$104bo10b3o10b2o$104bo4bo2bo2bo2bo$96b3o6bo4bo4b4o$96bo$
+97bo4$99b2o$98b2ob2o3bo$88bo11bo11b2o$87b2o4bo18b2o$86b4ob2ob2o$93b2o$
+86bo3$90b2o$90b2o$84bob2o$83bo3b2o$82bo4bobo$83b2o3b2o!
